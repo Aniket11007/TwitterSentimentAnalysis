@@ -1,1 +1,6 @@
-Streamlit
+streamlit
+altair
+joblib
+numpy
+plotly.express
+pandas
